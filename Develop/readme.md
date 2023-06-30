@@ -1,4 +1,3 @@
-
 # a
 # Table of Contents
 
@@ -16,7 +15,11 @@ a
 a
 ## Testing
 a
+## License
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+This application is covered under the MIT license.
+
 ## Questions 
 https://github.com/a
 Email me at a with any questions
-
