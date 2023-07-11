@@ -46,3 +46,8 @@ If you have any questions or would like to discuss this project further, feel fr
 - Email: Andres.asencios10@gmail.com
 
 ---
+## Page preview 
+
+Github page:  https://codingobliqua.github.io/bookish-parakeet/
+
+![Example Video](https://codingobliqua.github.io/bookish-parakeet/assets/readme%20generator.mp4)
