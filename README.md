@@ -50,4 +50,4 @@ If you have any questions or would like to discuss this project further, feel fr
 
 Github page:  https://codingobliqua.github.io/bookish-parakeet/
 
-![Example Video](https://codingobliqua.github.io/bookish-parakeet/assets/readme%20generator.mp4)
+![Example Video](https://drive.google.com/file/d/17pgRBh8HBydlMVhqAAoVmjidEqTwYrBM/view)

@@ -66,6 +66,12 @@ function generateReadme(answers, licenseBadge, licenseNotice) {
 
 * [Description](#description)
 * [Questions](#questions)
+* [installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Testing](#testing)
+* [License](#license)
+
 
 
 ## Description
