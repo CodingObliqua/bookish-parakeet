@@ -48,6 +48,6 @@ If you have any questions or would like to discuss this project further, feel fr
 ---
 ## Page preview 
 
-Github page:  https://codingobliqua.github.io/bookish-parakeet/
+Github page: https://codingobliqua.github.io/bookish-parakeet/
 
-![Example Video](https://drive.google.com/file/d/17pgRBh8HBydlMVhqAAoVmjidEqTwYrBM/view)
+[![Example Video](https://drive.google.com/uc?export=download&id=17pgRBh8HBydlMVhqAAoVmjidEqTwYrBM)](https://drive.google.com/file/d/17pgRBh8HBydlMVhqAAoVmjidEqTwYrBM/view)
