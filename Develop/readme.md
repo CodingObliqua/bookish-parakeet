@@ -1,4 +1,4 @@
-# a
+# bookish-parakeet
 # Table of Contents
 
 * [Description](#description)
@@ -6,20 +6,20 @@
 
 
 ## Description
-a
+Create a Readme generator to create readme pages faster for later projects
 ## Installation Instructions
-a
+I created a repository then used inquier to call up the inputs for my readme generator
 ## Usage Information
-a
+to create readme in a faster manner
 ## Contribution Guidelines
-a
+to link any profiles that were used to help make this readme generator
 ## Testing
-a
+test if the inputs are correct and generate what is nesassary
 ## License
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 This application is covered under the MIT license.
 
 ## Questions 
-https://github.com/a
-Email me at a with any questions
+https://github.com/codingobliqua
+Email me at andres.asencios10@gmail.com with any questions
